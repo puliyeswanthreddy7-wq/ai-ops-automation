@@ -26,4 +26,3 @@ This system replaces manual spreadsheets with automated workflows and intelligen
 
 ---
 
-## 🏗️ Architecture
